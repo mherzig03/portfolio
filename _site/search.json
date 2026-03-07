@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Hi! I’m Magdelyn Herzig.",
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
     "section": "",
-    "text": "I graduated from St. Catherine University with a B.A. in Geography and a B.S. in Data Science in December 2025. I am currently a Research Intern at the Metropolitan Council of the Twin Cities, working on a project using deep learning methods to delineate urban tree canopy. My interests include remote sensing, equity analyses, deep learning, computer vision, natural language processing, and qualitative methodologies."
+    "text": "Projects coming soon."
   },
   {
     "objectID": "about.html",
@@ -14,10 +14,10 @@
     "text": "About this site"
   },
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hi! I’m Magdelyn Herzig.",
     "section": "",
-    "text": "Projects coming soon."
+    "text": "I graduated from St. Catherine University with a B.A. in Geography and a B.S. in Data Science in December 2025. I am currently a Research Intern at the Metropolitan Council of the Twin Cities, working on a project using deep learning methods to delineate urban tree canopy. My interests include remote sensing, equity analyses, deep learning, computer vision, natural language processing, and qualitative methodologies."
   }
 ]
