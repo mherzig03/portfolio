@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  favicon: "🐱"
+  favicon: "favicon.ico"
   title: "Magdelyn Herzig"
   navbar:
     left:
