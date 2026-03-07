@@ -1,1 +1,16 @@
 /* css styles */
+body {background-color:#e8ede9;}
+.navbar{background-color:#5c2d5c;color:#fdf6ec;}
+.navbar-light .navbar-nav .nav-link,
+.navbar-brand {
+  color: #fdf6ec !important;
+}
+.nav-link.active,
+.nav-link:active,
+.navbar-nav .nav-link.active{
+  color:#fdf6ec !important;
+}
+.navbar a {
+  color: #fdf6ec!important;
+}
+a{color:#5c2d5c;}

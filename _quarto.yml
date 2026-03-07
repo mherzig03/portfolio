@@ -2,6 +2,7 @@ project:
   type: website
 
 website:
+  favicon: "🐱"
   title: "Magdelyn Herzig"
   navbar:
     left:
