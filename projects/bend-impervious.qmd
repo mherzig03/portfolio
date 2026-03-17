@@ -1,0 +1,11 @@
+---
+title: "Urban Growth in Bend, Oregon"
+image: "../images/Layout.png"
+description: "Analysis and visualization of the rapid growth of Bend, Oregon using impervious surface data from 1985 to 2024"
+categories : [GIS]
+---
+![](../images/Layout.png)
+
+This map shows the dramatic urban transformation Bend, Oregon has undergone since 1985. With a population of 17,000 people in 1985 and over 105,000 today, it is one of the [strongest examples of rapid development and population growth occurring in the intermountain West](https://www.opb.org/news/article/central-oregon-is-among-nations-fastest-growing-regions/). Using impervious surface data to show development and urbanization, we see that built surfaces have been steadily increasing. This is really important, especially as the Oregon High Desert is an incredibly large and yet mostly unprotected ecosystem. The draw of natural amenities to these places is one of the biggest pull factors, but the footprint of human settlement has begun to erode the desirable features that are bringing people here, a tension [visible in Bend's ongoing struggles over its urban growth boundary](https://www.opb.org/article/2024/11/22/bend-urban-growth-boundary-oregon-city-council-expansion-housing-homes/).
+
+For this triptych, I used the [Fractional Impervious Surface dataset from the USGS](https://www.mrlc.gov/data/project/annual-nlcd), accessed through Esri's Living Atlas, to visualize urbanization and land cover change across 1985, 2005, and 2024 in ArcGIS Pro.
