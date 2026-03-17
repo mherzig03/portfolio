@@ -4,7 +4,14 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Projects coming soon."
+    "text": "Urban Growth in Bend, Oregon\n\n\nAnalysis and visualization of the rapid growth of Bend, Oregon using impervious surface data from 1985 to 2024\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hi! I’m Magdelyn Herzig.",
+    "section": "",
+    "text": "I graduated from St. Catherine University with a B.A. in Geography and a B.S. in Data Science in December 2025. I am currently a Research Intern at the Metropolitan Council of the Twin Cities, working on a project using deep learning methods to delineate urban tree canopy. My interests include remote sensing, equity analyses, deep learning, computer vision, natural language processing, and qualitative methodologies."
   },
   {
     "objectID": "about.html",
@@ -14,10 +21,10 @@
     "text": "Hi! I’m Magdelyn. I grew up in rural Southern Oregon and moved to the Twin Cities for college at St. Catherine University, where I studied geography and data science. I did research on the modern impacts of racial covenants on schooling and public health, the impacts of dam removal on long term vegetative health using remotely sensed imagery, as well as the demonstrated cultural resilience and mobility among pastoral reindeer herders in Sápmi.\nProfessionally, as a Research Intern at the Metropolitan Council, I have been involved in multiple projects, involving mapping and analyzing the regional parks and trails system, and using deep learning methodologies to process high resolution aerial imagery to delineate urban tree canopies. I believe qualitative and quantitative methods and practices are stronger together than apart, and that data must be connected to people and the human experience to be meaningful.\nThis portfolio was created to organize and synthesize my personal work and research interests, including remote sensing, natural language processing, deep learning, computer vision, equity analyses, cartography and data visualization. I currently live in Minneapolis, Minnesota with two cats and a sourdough starter. I’m an avid library card user, baker, and amateur accordion player."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Hi! I’m Magdelyn Herzig.",
+    "objectID": "projects/bend-impervious.html",
+    "href": "projects/bend-impervious.html",
+    "title": "Urban Growth in Bend, Oregon",
     "section": "",
-    "text": "I graduated from St. Catherine University with a B.A. in Geography and a B.S. in Data Science in December 2025. I am currently a Research Intern at the Metropolitan Council of the Twin Cities, working on a project using deep learning methods to delineate urban tree canopy. My interests include remote sensing, equity analyses, deep learning, computer vision, natural language processing, and qualitative methodologies."
+    "text": "This map shows the dramatic urban transformation Bend, Oregon has undergone since 1985. With a population of 17,000 people in 1985 and over 105,000 today, it is one of the strongest examples of rapid development and population growth occurring in the intermountain West. Using impervious surface data to show development and urbanization, we see that built surfaces have been steadily increasing. This is really important, especially as the Oregon High Desert is an incredibly large and yet mostly unprotected ecosystem. The draw of natural amenities to these places is one of the biggest pull factors, but the footprint of human settlement has begun to erode the desirable features that are bringing people here, a tension visible in Bend’s ongoing struggles over its urban growth boundary.\nFor this triptych, I used the Fractional Impervious Surface dataset from the USGS, accessed through Esri’s Living Atlas, to visualize urbanization and land cover change across 1985, 2005, and 2024 in ArcGIS Pro."
   }
 ]
